@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://phermidex.github.io/csb-l6lvgk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://phermidex.github.io/csb-l6lvgk/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://phermidex.github.io/csb-l6lvgk/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://phermidex.github.io/csb-l6lvgk/static/js/runtime-main.ec7837e9.js",
+    "runtime-main.js.map": "https://phermidex.github.io/csb-l6lvgk/static/js/runtime-main.ec7837e9.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://phermidex.github.io/csb-l6lvgk/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://phermidex.github.io/csb-l6lvgk/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://phermidex.github.io/csb-l6lvgk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://phermidex.github.io/csb-l6lvgk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://phermidex.github.io/csb-l6lvgk/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7837e9.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
